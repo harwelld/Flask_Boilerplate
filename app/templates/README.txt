@@ -1,0 +1,1 @@
+/templates directory for all jinja2 templates and html pages

@@ -1,0 +1,1 @@
+/img directory for storing application images
